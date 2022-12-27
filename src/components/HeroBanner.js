@@ -29,7 +29,7 @@ const HeroBanner = () => {
             <Typography
                 fontSize="22px"
                 lineHeight="35px" mb={4}>
-                Check out the most effective exercises
+                Check out the most effective exercises personalized to you
             </Typography>
 
             <Button
